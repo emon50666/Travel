@@ -272,6 +272,42 @@
     margin: auto;
     }
 
+
+    /* discount */
+
+    .des-box {
+        width: 274px;
+        position: relative;
+        left: 12%;
+        top: 34%;
+    
+    }
+    .des-boxs {
+        width: 274px;
+        position: relative;
+        left: 12%;
+        top: 34%;
+    
+    }
+    .des-boxs 
+ {
+    width: 280px;
+    position: relative;
+    left: 13%;
+    top: 18%;
+
+}
+    .disbgimg {
+        background-image: url(./Images/dis-1.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 740px;
+      
+    }    
+    .des-details p{
+        font-size: 13px;
+    }
 }
 
 

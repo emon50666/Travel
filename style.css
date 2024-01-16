@@ -606,3 +606,111 @@ button.blog {
     font-weight: 700;
     color: #fff;
 }
+
+
+
+/* discount section */
+
+#des{
+  margin-top: 70px;
+}
+
+.disbgimg{
+  background-image: url('./Images/dis-1.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 570px;
+
+}
+
+.disbgimgs{
+  background-image: url('./Images/dis-2.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 570px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+
+.des-details {
+  border-radius: 10px;
+  padding: 20px 30px 20px 30px;
+  background:#ffffffd4;
+}
+
+.des-boxs 
+ {
+    width: 600px;
+    position: relative;
+    right: -5%;
+    top: 20%;
+
+}
+
+.des-box {
+  width: 600px;
+  position: relative;
+  left: 51%;
+  top: 20%;
+}
+
+.des-details span{
+  color: #5A5A5D;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 10px;
+
+}
+
+.des-details i{
+  width: 24px;
+height: 24px;
+flex-shrink: 0;
+color: #FF5400;
+}
+
+.des-details .tor{
+  margin: auto;
+  color: #131318;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  padding-top: 14px;
+
+}
+
+.des-details p{
+  color: #000000;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+}
+.des-details strong{
+  color: #FF5400;
+font-family: Mulish;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.bttn .bok{
+  border-radius: 8px;
+background: #FF5400;
+padding: 10px 15px 10px 15px;
+border: none;
+text-transform: capitalize;
+font-size: 18px;
+font-weight: 800;
+color: #fff;
+margin-top: 15px;
+}
